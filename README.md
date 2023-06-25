@@ -6,4 +6,4 @@ The application is used to read the locale files of different languages availabl
 
 ## Application
 
-The hosted Applcation can be found in [Multi Language](https://github.com/Radhika-0812/Multilanguage.git)
+The hosted Applcation can be found in [Multi Language](https://github.com/Radhika-0812/Multilanguage/)
