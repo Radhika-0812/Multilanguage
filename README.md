@@ -6,4 +6,4 @@ The application is used to read the locale files of different languages availabl
 
 ## Application
 
-The hosted Applcation can be found in [Multi Language](https://sakthi7081.github.io/i18n/)
+The hosted Applcation can be found in [Multi Language](https://radhika-0812.github.io/i18n/)
